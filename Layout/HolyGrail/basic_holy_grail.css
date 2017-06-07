@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: monospace;
+}
+
+.container {
+  padding: 0 200px;
+}
+
+.container section {
+  position: relative;
+  float: left;
+}
+
+.center {
+  background: #bf4231;
+  width: 100%;
+  color: #fff;
+}
+
+.left {
+  background: #2555c3;
+  width: 200px;
+  right: 200px;
+  margin-left: -100%;
+  color: #fff;
+}
+
+.right {
+  background: #77bbdd;
+  width: 200px;
+  margin-right: -100%;
+  color: #fff;
+}
