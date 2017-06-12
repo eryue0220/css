@@ -1,0 +1,19 @@
+* { margin: 0; padding: 0; }
+body { min-width: 700px; }
+.header,
+.footer {
+    border: 1px solid #333;
+    background: #aaa;
+    text-align: center;
+}
+
+.left,
+.right,
+.main {
+    float: left;
+    min-height: 130px;
+}
+
+.footer {
+    clear: both;
+}
