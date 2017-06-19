@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background: #fb3;
+}
+
+.center {
+    display: table-cell;
+    width: 18em;
+    height: 16em;
+    background: #655;
+    vertical-align: middle;
+}
